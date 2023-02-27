@@ -19,3 +19,6 @@ BeastBot AI is a simple AI-based animal guessing game. The program uses an exper
 ## Updating the Code
 If you would like to optimize or update the code, you can modify the take_input method in the Main.java file. This method takes in an integer answer, a string property, and an ArrayList of HashMaps with String keys and Object values named database. The method filters the database based on whether the value associated with property is equal to answer, and then outputs the name of the animal if there is only one animal left in the database.
 
+
+
+### Enjoy playing BeastBot-AI!
