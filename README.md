@@ -3,8 +3,7 @@
 BeastBot AI is a simple AI-based animal guessing game. The program uses an expert system algorithm to guess the name of an animal based on a set of yes-or-no questions.
 
 ## Installation
-* Clone the repository to your local machine using the command:
-* `git clone https://github.com/neerajparkashsharma/BeastBot-AI.git`
+* Clone the repository to your local machine using the command: `git clone https://github.com/neerajparkashsharma/BeastBot-AI.git`
 * Open the project in your preferred Java IDE.
 * Run the Main.java file.
 
